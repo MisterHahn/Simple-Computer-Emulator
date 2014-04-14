@@ -12,6 +12,6 @@ The Simple Computer emulator is a java-based program designed to demonstrate a s
 * Program Counter (PC)
 * Control Unit  
 
-Meyer's full documentation about the Simple Computer can be found [here](www.davidspellman.com/CS3a/SimpleComputer/)
+Meyer's full documentation about the Simple Computer can be found [here](http://www.davidspellman.com/CS3a/SimpleComputer/)
 
 
